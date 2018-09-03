@@ -4,7 +4,6 @@ date: 2018-09-03 19:48:33 -0400
 categories: github blog jekyll
 ---
 
-# 간편한 마크업 블로그 : 깃 허브 블로그
 * 개발자를 위한 마크업 블로그
 * jekyll(ruby) + github 의 조합
 
@@ -32,7 +31,7 @@ categories: github blog jekyll
  >> github repogit 생성
  >> gemfile 생성
  >> _config.yml 복사 후 커스터마이징
- >>> **remote_theme: "mmistakes/minimal-mistakes"?**
+ >>> **remote_theme: "mmistakes/minimal-mistakes"**
  >> index.html 복사 후 내용의 대상 파일 추가 복사
  >>> _layouts/home.html 복사
 4. 테스트
