@@ -4,8 +4,8 @@ email: yeaih89@gmail.com
 description: my program info reposit
 #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
-baseurl: "/blog"
-url: ""
+baseurl: ""
+url: "https://ilhaeye.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
