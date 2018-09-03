@@ -6,8 +6,8 @@ categories: xcode trouble-shooting unreal
 
 ## 문제 상황
 > XCode 업데이트 이후, 언리얼 엔진 에디터가 정상동작하지 않는다.
-언리얼 엔진에서는 XCode가 오래된 버전이므로 업데이트를 요구하고 있었지만 내 XCode는 이미 최신버전이다.
-그 후 에디터에서 컴파일은 커녕, 클래스 생성조차 되지 않는다.
+> 언리얼 엔진에서는 XCode가 오래된 버전이므로 업데이트를 요구하고 있었지만 내 XCode는 이미 최신버전이다.
+> 그 후 에디터에서 컴파일은 커녕, 클래스 생성조차 되지 않는다.
 ```
 Compile error
 ERROR: Invalid SDK MacOSX.sdk, not found in /Library/Developer/CommandLineTools/Platforms/MacOSX.platform/Developer/SDKs
