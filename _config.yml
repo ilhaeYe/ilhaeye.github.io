@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Romance Duck"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "South Korea"
+  email            : "yeaih89@gmail.com"
+  uri              : "https://ilhaeye.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
