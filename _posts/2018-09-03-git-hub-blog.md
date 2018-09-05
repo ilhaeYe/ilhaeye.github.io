@@ -26,13 +26,13 @@ jekyll(ruby) + github 의 조합
 2. 해당 테마 github 페이지 접속  
  https://github.com/mmistakes/minimal-mistakes  
 3. Readme.md 를 읽고 install 따라하기  
- 무설치를 위한 github pages method를 따라 함  
- > github repogit 생성  
- > gemfile 생성  
- > _config.yml 복사 후 커스터마이징  
- > **remote_theme: "mmistakes/minimal-mistakes"**  
- > index.html 복사 후 내용의 대상 파일 추가 복사  
- > _layouts/home.html 복사  
+ >무설치를 위한 github pages method를 따라 함  
+ >> github repogit 생성  
+ >> gemfile 생성  
+ >> _config.yml 복사 후 커스터마이징  
+ >> **remote_theme: "mmistakes/minimal-mistakes"**  
+ >> index.html 복사 후 내용의 대상 파일 추가 복사  
+ >> _layouts/home.html 복사  
 4. 테스트  
  https://ilhaeye.github.io 접속  
  index.html 페이지 정상 동작 확인  
