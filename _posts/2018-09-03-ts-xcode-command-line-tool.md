@@ -15,7 +15,8 @@ ERROR: Invalid SDK MacOSX.sdk, not found in /Library/Developer/CommandLineTools/
 
 ## 원인 파악
 아마 Brew 설치 후 환경에 따라 xcode command line tools 경로에 문제가 생긴 것으로 보인다.  
-구글링 결과 xcode command line tools 가 정상적으로 설정되어 있지 않았다는 내용을 발견하였다. XCode의 Xcode > Preferences > Locations을 열어 보았더니 아래 이미지와 같이 Command Line Tools가 비어 있음을 확인하였다.[^1]  
+구글링 결과 xcode command line tools 가 정상적으로 설정되어 있지 않았다는 내용을 발견하였다.  
+XCode의 Xcode > Preferences > Locations을 열어 보았더니 아래 이미지와 같이 Command Line Tools가 비어 있음을 확인하였다.[^1]  
 ![Empty Command Line Tools]({{ "/assets/ts-command-line-tool.png" | absolute_url }})  
 
 ## 해결
