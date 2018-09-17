@@ -4,4 +4,6 @@
 1 : (문제해결)XCode 커맨드 라인 툴 설정 문제  
 2 : 언리얼 엔진에서의 소스 관리 툴 perforce  
 3 : Lua Metatable과 MetaMethods, 그리고 OOP  
+4 : (GPP)게임 프로그래밍 패턴 도입  
+
 
